@@ -1,0 +1,34 @@
+{
+  "charArray": [
+    {
+      "id": 1,
+      "name": "Mark",
+      "race": "Human",
+      "status": "Full-Health",
+      "comment": "",
+      "location": "",
+      "stamnia": "",
+      "health": ""
+    },
+    {
+      "id": 2,
+      "name": "Goerge",
+      "race": "Demon",
+      "status": "Enraged",
+      "comment": "I'm so ANGRY!!!!",
+      "location": "",
+      "stamnia": "",
+      "health": ""
+    },
+    {
+      "id": 3,
+      "name": "Angela",
+      "race": "Fairy",
+      "status": "Full-Health",
+      "comment": "",
+      "location": "",
+      "stamnia": "",
+      "health": ""
+    }
+  ]
+}
